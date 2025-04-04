@@ -1246,7 +1246,7 @@ button {
     margin-top: 131px;
     width: auto;
     background: linear-gradient(to right, #fff6ed 42%, transparent 42%);
-    height: 500px;
+    height: 550px;
 }
 
 .footer__left-logo {
@@ -1358,4 +1358,12 @@ button {
     text-align: center;
     margin: auto;
     margin-top: 52px;
+}
+
+.footer_column:nth-child(3) {
+    margin-top: 58px;
+}
+
+.footer_column:last-child {
+    margin-top: 58px;
 }
